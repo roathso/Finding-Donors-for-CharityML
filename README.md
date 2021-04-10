@@ -1,4 +1,4 @@
-# Finding-Donors-for-CharityML
+# Finding Donors for CharityML
 
 Given donors census data, simply find the best algorithms that can train and predict efficiency. Developed a naive classifier to compare testing results. Trained and tested some supervised machine learning algorithms to predict the likelihood of donations. The best model is selected based on accuracy, F-scoring metric, time spending on training and predicting.
 
